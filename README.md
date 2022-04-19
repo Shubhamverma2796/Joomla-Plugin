@@ -1,4 +1,4 @@
-# Joomla-Plugin
+# Joomla-Heading-Hierarchy-Corrector-Plugin
 A Joomla plugin for correcting the wrong header hierarchy in front-end of the site.
 
 
