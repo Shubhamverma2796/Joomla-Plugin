@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="system">
+    <name>PLG_SYSTEM_HEADINGCORRECTOR</name>
+    <author>Shubham Verma</author>
+    <creationDate>April 2022</creationDate>
+    <copyright>Copyright (C) 2022 Holder. All rights reserved.</copyright>
+    <license>GNU General Public License</license>
+    <authorEmail>sv72191@gmail.com</authorEmail>
+    <authorUrl>url</authorUrl>
+    <version>4.0.0</version>
+    <description></description>
+
+    <files>
+        <filename plugin="headingcorrector">headingcorrector.php</filename>
+    </files>
+    <media destination="plg_system_headingcorrector" folder="media">
+		<folder>js</folder>
+		<filename>index.html</filename>
+	</media>
+    <languages>
+        <language tag="en-GB">language/en-GB/en-GB.plg_system_headingcorrector.ini</language>
+        <language tag="en-GB">language/en-GB/en-GB.plg_system_headingcorrector.sys.ini</language>	
+    </languages>
+</extension>
